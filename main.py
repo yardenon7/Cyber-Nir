@@ -40,7 +40,7 @@ def decrypt_text(msg):
     msg = ", ".join(temp)
     print(msg)
 
-
+#ty rugh
 def main():
     if sys.argv[FIRST_NAME] == 'encrypt':
         msg = input("enter the secret massage you want to encrypt: ")
